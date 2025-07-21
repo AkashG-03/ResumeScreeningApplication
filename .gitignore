@@ -1,0 +1,21 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and system files
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node and package stuff (if used)
+node_modules/
+
+# Big files (optional)
+*.pkl
+*.csv
